@@ -78,7 +78,7 @@
 ## 🧭 三、组织与管理
 
 - **指导单位**：北京市丰台区外国语学校  
-- **维护团队**：WYC999999、Outsider、Tarkov   
+- **维护团队**：OSR管理委员会  
 - **适用范围**：教学辅助、科研交流、文化传播等  
 
 ---
@@ -109,9 +109,7 @@
 
 ## 📫 六、联系方式
   
-- **项目负责人**：[@WYC999999](https://github.com/WYC999999) [@RICK-ALSTEY](https://github.com/RICK-ALSTEY) [@Flanker-Tarkov](https://github.com/Flanker-Tarkov)
-
----
+- **驻站负责人**：[@WYC999999](https://github.com/WYC999999) [@RICK-ALSTEY](https://github.com/RICK-ALSTEY)
 
 ## 🌟 七、致谢
 
