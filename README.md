@@ -121,3 +121,6 @@ result = yh_interpreter(source)
 
 print(f"YH-Lang 执行结果: {result}")
 ```
+
+
+<!-- auto test commit 2026-09-06 17:17:05 (由 WorkBuddy 试写，可安全删除) -->
