@@ -1,4 +1,4 @@
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
 
 # 📚 《RUBBISH》期刊发表论文归档
 
@@ -6,7 +6,7 @@
 
 ---
 
-> 本分支用于集中归档由北京市丰台区外国语学校师生在《RUBBISH》期刊上公开发表的原创论文，便于长期保存、检索与交流。
+> 本分支用于集中归档由北京市丰台区外国语学校师生在《RUBBISH》平台发布的创意作品与公开链接，便于检索、交流与留存。归档内容以戏仿与幽默表达为主，属非正式发表，请理性看待。
 
 ---
 
@@ -20,19 +20,19 @@
 
 ## 🗂️ 一、归档说明
 
-《RUBBISH》为本项目关联的学术发表平台之一。凡在本仓库各专题分支中形成的研究成果，经评审并以论文形式公开发表后，将在此集中登记、附链与归档。
+《RUBBISH》为本项目关联的线上发表平台之一，内容以幽默、戏仿与创意表达为主。凡在本仓库各专题分支中形成的作品，经登记并以公开链接形式发布后，将在此集中记录、附链与归档。
 
 ---
 
 ## 📄 二、论文列表
 
-### 1. 圆内均匀随机点生成原理及其在宫保鸡丁花生摆放中的应用
+| # | 论文标题 | 语言 | 链接 |
+|---|---------|------|------|
+| 1 | 圆内均匀随机点生成原理及其在宫保鸡丁花生摆放中的应用 | 中文 | https://rubbish-journal.org/zh/articles/2ef4feb2-b091-4b3b-8d7c-f026ca23c4ef |
+| 2 | 九号电动自行车改装与骑行生存率及交警查处率关系研究 | English | https://rubbish-journal.org/en/articles/5cc4f03d-918b-4386-8f97-40e77b85298e |
 
-https://rubbish-journal.org/zh/articles/2ef4feb2-b091-4b3b-8d7c-f026ca23c4ef
-
-### 2. 九号电动自行车改装与骑行生存率及交警查处率关系研究
-
-https://rubbish-journal.org/en/articles/5cc4f03d-918b-4386-8f97-40e77b85298e
+> **说明**：以上论文的作者、发表时间与卷期号待登记，建议后续在登记入库时一并补齐。
+> **内容提示**：《RUBBISH》为带有学术戏仿与幽默色彩的非正式发表平台，本页归档内容不构成正式学术文献，请注意甄别、勿作严肃引用依据。
 
 ---
 
