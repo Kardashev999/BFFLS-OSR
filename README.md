@@ -1,4 +1,4 @@
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
 
 # 🥜 宫保鸡丁花生随机均匀摆放位置研究
 
@@ -37,7 +37,7 @@ $\sqrt{(x - x_0)^2 + (y - y_0)^2} \leq r$
 
 ### 方法 1：极坐标转换法（推荐，均匀性更好）
 
-直接在直角坐标系中随机生成 $(x, y)$ 可能导致圆心附近点更密集（因为相同面积下，圆心附近的极坐标角度范围更大）。
+若直接在极坐标下对极径 $\rho$ 在 $[0, r]$ 内均匀取值、极角 $\theta$ 均匀取值，则**圆心附近的点会更密集**——因为圆的面积与半径平方成正比，半径越小的环形区域面积越小，却分配到了相同的概率。为保证采样在面积上均匀，需对半径做平方根采样（步骤见下）。
 
 1. **随机生成极径 $ρ$**：
    若直接在 $[0, r]$ 内均匀取 $ρ$，仍会导致圆心附近点过密。正确做法是对半径进行**平方根采样**：
@@ -219,4 +219,4 @@ if __name__ == "__main__":
 
 ---
 
-© 北京市丰台区外国语学校 · BFFLS Open Source Repository · 宫保鸡丁-花生摆放位置
+© 北京市丰台区外国语学校 · BFFLS Open Source Repository · 鸡丁仙人-花生摆放位置
