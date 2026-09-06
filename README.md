@@ -1,4 +1,4 @@
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
 
 # 🛡️ 北京市丰台区外国语学校开源项目 · 免责声明
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **版本号**：1.2　·　**生效日期**：2026年3月11日　·　**发布方**：BFFLS-OSR 维护团队（Maintainer Team）
+> **版本号**：1.0　·　**生效日期**：2026年3月11日　·　**发布方**：BFFLS-OSR 维护团队（Maintainer Team）
 >
 > 本声明旨在明确 BFFLS-OSR 仓库各类内容的使用边界、责任归属与法律依据，请在使用、浏览或贡献前仔细阅读。
 
@@ -29,9 +29,9 @@
 
 ## 📍 一、适用范围
 
-BFFLS-OSR仓库（GitHub地址：https://github.com/WYC999999/BFFLS-OSR ）及其所有相关内容，包括但不限于代码、文档、资源文件、讨论区、Issues、Pull Requests、Wiki页面以及任何衍生作品或使用该仓库的活动。本免责声明适用于所有访问者、贡献者、用户和第三方（以下简称“用户”），无论其是否为学校师生、合作机构或公众。
+BFFLS-OSR仓库（GitHub地址：https://github.com/Kardashev999/BFFLS-OSR ）及其所有相关内容，包括但不限于代码、文档、资源文件、讨论区、Issues、Pull Requests、Wiki页面以及任何衍生作品或使用该仓库的活动。本免责声明适用于所有访问者、贡献者、用户和第三方（以下简称“用户”），无论其是否为学校师生、合作机构或公众。
 
-**法律依据**：本免责声明基于《中华人民共和国合同法》、《中华人民共和国侵权责任法》、《中华人民共和国网络安全法》、《中华人民共和国个人信息保护法》（PIPL）以及开源社区通用惯例制定，不构成任何形式的法律意见或合同承诺。如有争议，适用中华人民共和国法律，并以北京市丰台区人民法院为第一审管辖法院。
+**法律参考**：本免责声明参考《中华人民共和国民法典》、《中华人民共和国网络安全法》、《中华人民共和国个人信息保护法》（PIPL）以及开源社区通用惯例制定，不构成任何形式的法律意见或合同承诺。如有争议，适用中华人民共和国法律，并以北京市丰台区人民法院为第一审管辖法院。
 
 ---
 
@@ -99,7 +99,7 @@ BFFLS-OSR仓库旨在通过开源方式促进教育资源共享、科技创新�
 
 责任限制适用于所有法律理论，包括合同、侵权（包括过失）、严格责任等。
 
-**在任何情况下，维护团队承担的责任总额不超过人民币零元（RMB 0）。**
+**在法律允许的最大范围内，维护团队不对上述任何类别的责任承担赔偿义务；就本仓库内容的使用所引发的全部主张，维护团队累计应承担的责任，以不超过用户为本仓库内容实际支付的任何费用（如有）为上限。** 若该限制因适用法律强制规定而无效，则责任范围应依法调整至法律允许的最小程度。
 
 维护团队不对用户之间的互动（例如 Issues、Pull Requests 或 Discussions）承担责任。用户贡献内容仅代表其个人观点，不代表学校立场。
 
@@ -113,7 +113,7 @@ BFFLS-OSR 仓库内容受中国及国际知识产权法律保护。
 
 ### 许可
 
-除非另有说明，仓库内容默认采用 **MIT License**（详见 LICENSE 文件）。该许可允许：使用、复制、修改、分发、创建衍生作品；但必须：保留原作者署名、保留许可声明、保留免责声明。
+除非另有说明，仓库内容默认采用 **MIT License** 开源（详见仓库根目录 LICENSE 文件）。该许可允许：使用、复制、修改、分发、创建衍生作品；但必须：保留版权声明与许可声明。如后续更换许可协议，将以根目录 LICENSE 文件的最新内容为准。
 
 ### 用户贡献
 
