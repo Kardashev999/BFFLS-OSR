@@ -1,7 +1,8 @@
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-使命召唤手游-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
 # 宫保鸡丁品质鉴评委员会
+> 本页为校内学生趣味社团“宫保鸡丁品质鉴评委员会”的档案与创意文本，含幽默与戏仿成分，请轻松阅读。
 ## 宫保鸡丁品质鉴评委员会会徽
-<img width="2048" height="2048" alt="宫保鸡丁品质鉴评委员会" src="https://github.com/user-attachments/assets/6e288fb3-77b6-4acd-861b-7915f6c9848c" />
+<img width="240" alt="宫保鸡丁品质鉴评委员会" src="https://github.com/user-attachments/assets/6e288fb3-77b6-4acd-861b-7915f6c9848c" />
 
 ## 宫保鸡丁品质鉴评委员会介绍
 ### 一、机构名称
@@ -75,8 +76,8 @@
 宣誓人齐声：
 “弘扬正宗川味，守护宫保荣耀！”
 ## 宫保鸡丁品质鉴评委员会现任人员
-* 主席团：平浩恩、孟维明
-* 专家评审组：平浩恩、Tarkov、尹梓迁
-* 标准与研究中心：平浩恩、张耀辉、孟维明
-* 品鉴执行部：平浩恩、张耀辉、韩林毅
-* 文化传播部：平浩恩、Tarkov、LPY、毛泓程
+* 主席团：鸡丁仙人、孟维明
+* 专家评审组：鸡丁仙人、Tarkov、尹梓迁
+* 标准与研究中心：鸡丁仙人、张耀辉、孟维明
+* 品鉴执行部：鸡丁仙人、张耀辉、韩林毅
+* 文化传播部：鸡丁仙人、Tarkov、LPY、毛泓程
