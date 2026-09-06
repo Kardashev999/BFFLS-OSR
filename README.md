@@ -1,6 +1,8 @@
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
 # 🏫 北京市丰台区外国语学校开源项目仓库  
 **Beijing Fengtai Foreign Language School Open Source Repository (BFFLS-OSR)**
+
+<p align="center"><img src="北京市丰台区外国语学校校徽.png" alt="北京市丰台区外国语学校校徽" width="200"></p>
 
 ---
 
@@ -83,7 +85,7 @@
 
 ## 📫 六、联系方式
   
-- **驻站负责人**：[@WYC999999](https://github.com/WYC999999) [@RICK-ALSTEY](https://github.com/RICK-ALSTEY)
+- **驻站负责人**：[@Kardashev999](https://github.com/Kardashev999) [@RICK-ALSTEY](https://github.com/RICK-ALSTEY)
 
 ## 🌟 七、致谢
 
@@ -94,4 +96,6 @@
 
 ---
 
-© 北京市丰台区外国语学校 · BFFLS Open Source Repository  
+**开源许可**：本仓库内容默认采用 [MIT License](LICENSE)（详见根目录 LICENSE 文件）。
+
+© 2025–2026 北京市丰台区外国语学校 · BFFLS Open Source Repository  
