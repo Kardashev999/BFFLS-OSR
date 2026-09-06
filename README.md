@@ -1,8 +1,11 @@
 ![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
-# 🏫 北京市丰台区外国语学校开源项目仓库  
-**Beijing Fengtai Foreign Language School Open Source Repository (BFFLS-OSR)**
-
-<p align="center"><img src="北京市丰台区外国语学校校徽.png" alt="北京市丰台区外国语学校校徽" width="200"></p>
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:16px;">
+  <div style="flex:1 1 auto; min-width:280px;">
+    <h1 style="margin:0 0 4px;">🏫 北京市丰台区外国语学校开源项目仓库</h1>
+    <p style="margin:0; color:#57606a;"><strong>Beijing Fengtai Foreign Language School Open Source Repository (BFFLS-OSR)</strong></p>
+  </div>
+  <img src="北京市丰台区外国语学校校徽.png" alt="北京市丰台区外国语学校校徽" width="110" style="flex:0 0 auto; border-radius:8px;">
+</div>
 
 ---
 
