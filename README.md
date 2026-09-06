@@ -1,6 +1,4 @@
-![x com_1362758201](https://github.com/user-attachments/assets/601ed080-b8df-40b4-894d-9f491bca2bbe)
-
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
 
 # 🕯️ 铭记英烈 · 缅怀佟麟阁将军
 
@@ -25,17 +23,17 @@
 
 ## 📜 一、生平简述
 
-佟麟阁（1892年2月13日－1937年7月28日），字捷三，辽宁省凌源人。
+佟麟阁（1892年10月－1937年7月28日），字捷三，河北省高阳县人。
 
-早年投身行伍，毕业于**保定陆军军官学校**。历任北洋政府、国民政府时期多个军事职务，作战勇猛，治军严谨，以忠勇著称。
+早年慕冯玉祥将军爱国之名投笔从戎，由行伍逐级擢升，历任北洋政府、国民政府时期多个军事职务，作战勇猛，治军严谨，以忠勇著称。
 
-在“九一八”事变后，他痛感民族危机，誓以身报国。后任**北平守军第29军副军长**，与宋哲元共守华北，为捍卫民族尊严作出了不可磨灭的贡献。
+“九一八”事变后，他痛感民族危机，誓以身报国。彼时他已任**国民革命军第29军副军长**，辅佐军长宋哲元共守华北；全面抗战爆发前又兼任军事训练团团长、驻节南苑主持军务，为捍卫民族尊严作出了不可磨灭的贡献。
 
 ---
 
 ## ⚔️ 二、卢沟桥事变中的壮举
 
-1937年7月7日，日军挑起卢沟桥事变。佟麟阁将军在关键时刻力主抵抗，指挥部队死守宛平城与卢沟桥，誓不后退半步。面对装备精良的日军，他以血肉之躯筑起中华民族的抗战防线。
+1937年7月7日，日军挑起卢沟桥事变。佟麟阁将军在南苑军部力主坚决抵抗，向全军官兵严令：凡有日军进犯，坚决抵抗，誓与卢沟桥共存亡，不得后退一步。面对装备精良的日军，他指挥守军以血肉之躯筑起中华民族的抗战防线。
 
 在随后的北平保卫战中，他亲临前线指挥，激励将士奋勇杀敌。7月28日，佟麟阁将军与赵登禹将军并肩作战，于激战中壮烈殉国，时年仅45岁。
 
@@ -54,7 +52,7 @@
 
 ## 🗿 四、后世纪念
 
-中华人民共和国成立后，佟麟阁将军被追认为**革命烈士**。北京卢沟桥畔建有“佟麟阁、赵登禹烈士纪念碑”，碑上镌刻着他们的名字，供世人永远铭记。其家乡凌源市亦建有纪念馆，陈列着将军生前遗物与史料，述说那一段壮烈的抗战史。
+中华人民共和国成立后，佟麟阁将军被追认为**革命烈士**，并被评为“100位为新中国成立作出突出贡献的英雄模范人物”之一。为铭记英烈，其家乡河北省高阳县建有佟麟阁小学（内设佟麟阁纪念馆）；北京海淀香山脚下建有佟麟阁将军墓与佟麟阁将军纪念馆；北京西城、河北等地亦设有以将军命名的道路与纪念设施，供世人永远铭记这位以身殉国的抗日名将。
 
 ---
 
