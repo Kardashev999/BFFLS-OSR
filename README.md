@@ -1,5 +1,14 @@
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-0.0.1-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
 # BW统计力学（BW Statistical Mechanics）
+
+> [!IMPORTANT]
+> **内容性质**：本文为<b>幽默戏仿创作</b>，以"统计力学"的形式虚构校园骑行主题设定，**不构成任何真实物理学、统计学或交通行为建议**。文中涉及的改装、超速、环路骑行等情节纯属虚构，请务必遵守交通法规、安全骑行、切勿模仿。
+>
+> 说明：本页的 BW 指代**骑手代号**（BW = Bo Wei / 九号骑手群体），与"BW 生物意志指数（Biological & Will Index）"含义不同。
+
+### 📖 内容结构
+- 1 基本统计物理量 · 2 统计基本状态 · 3 统计基本定律 · 4 环速度统计体系
+- 5 统计一环铁骑势场 · 6 统计一环逃逸条件 · 7 未触发时的系统演化 · 8 统计动能 · 9 未来方向
 
 > BW统计力学是一套描述 **Bo Wei 骑乘改装 Ninebot（九号）电动自行车骑手群体** 在城市环路系统中集体运动规律的统计理论。  
 > 该理论将单个骑手视为微观“粒子”，群体视为宏观系综，认为传统统计力学在复杂城市交通与环路势场中并不完全适用，因此建立 BW速度统计分布、环路占据数与铁骑势场统计理论（与 BW非经典力学完全自洽）。
@@ -373,3 +382,8 @@ BW统计力学仍在发展，未来可能扩展为：
 - **BW量子骑行路径统计**  
 - **BW交通场论**  
 - **BW非平衡统计力学**（实时追逐动态）
+
+---
+
+© 北京市丰台区外国语学校 · BFFLS Open Source Repository · BW统计力学  
+本分支内容由 OSR 管理委员会托管。姊妹篇：[BW 非经典力学](../BW-超高速状态非经典力学/README.md)（虚构设定）。
