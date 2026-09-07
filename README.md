@@ -1,5 +1,14 @@
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-0.0.1-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
 # BW非经典力学（BW Non-Classical Mechanics）
+
+> [!IMPORTANT]
+> **内容性质**：本文为<b>幽默戏仿创作</b>，以"非经典力学"的形式虚构校园骑行主题设定，**不构成任何真实物理学或交通行为建议**。文中涉及的改装、超速、环路骑行等情节纯属虚构，请务必遵守交通法规、安全骑行、切勿模仿。
+>
+> 说明：本页的 BW 指代**骑手代号**（BW = Bo Wei / 九号骑手），与"BW 生物意志指数（Biological & Will Index）"含义不同。
+
+### 📖 内容结构
+- 1 基本物理量 · 2 基本状态 · 3 基本定律 · 4 环速度体系
+- 5 一环铁骑势场 · 6 一环逃逸条件 · 7 未触发时的系统演化 · 8 BW动能 · 9 未来方向
 
 > BW非经典力学是一套描述 **Bo Wei 骑乘改装 Ninebot（九号）电动自行车** 在城市环路系统中运动规律的动力学理论。  
 > 该理论认为传统牛顿力学在复杂城市交通与环路势场中并不完全适用，因此建立 BW速度体系、环路动力学与铁骑势场理论。
@@ -351,4 +360,7 @@ BW非经典力学仍在发展，未来可能扩展为：
 - **BW交通场论**
 - **BW量子骑行路径**
 
+---
 
+© 北京市丰台区外国语学校 · BFFLS Open Source Repository · BW非经典力学  
+本分支内容由 OSR 管理委员会托管。姊妹篇：[BW 统计力学](../BW-超高速状态统计力学/README.md)（虚构设定）。
