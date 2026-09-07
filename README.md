@@ -1,4 +1,9 @@
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
+
 # 丰外自研语法
+
+> [!NOTE]
+> **内容性质**：本分支为丰外（BFFLS）学生自研语言项目的趣味档案与创意规范文档，内容以幽默、戏仿与实验性表达为主；FW-Lang 为校园自研语法的演示设定，请勿与真实编程语言规范混淆。
 
 ---
 
@@ -121,3 +126,8 @@ result = fw_interpreter(source)
 
 print(f"FW-Lang 执行结果: {result}")
 ```
+
+---
+
+© 北京市丰台区外国语学校 · BFFLS Open Source Repository · 丰外自研语法  
+本分支内容由 OSR 管理委员会托管。
