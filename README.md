@@ -1,6 +1,17 @@
-# BW指数: 人类七情六欲量化建模与分析系统
+# 🧬 BW 生物意志指数：人类七情六欲量化建模与分析系统
 
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-0.0.1-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+**Biological & Will Index (BW Index)**
+
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
+
+> **模型定位**：本文为趣味量化模型，用数学方式刻画个体当下的"心理-生理"驱动力（七情六欲与意志张力），仅供自我了解与娱乐参考，不构成任何医学或心理学诊断依据。
+
+### 📖 本页结构
+1. 简介（本页是什么）
+2. 理论框架（七情 + 六欲两个分量）
+3. 数学建模（瞬时 / 日均 / 含参子指数）
+4. 值域与分级标准（0-100 五档）
+5. 简化指数 SBW（快速自评）
 
 ## 1. 简介 (Introduction)
 
@@ -97,3 +108,8 @@ $$SBW = (E_{score} \times 4) + (D_{score} \times 3) + (W_{score} \times 3)$$
 
 > **Warning**
 > BW 指数属于社会科学与行为数学模型，仅供自我了解与科研参考，不作为医学诊断依据。
+
+---
+
+© 北京市丰台区外国语学校 · BFFLS Open Source Repository · BW 生物意志指数  
+本分支内容由 OSR 管理委员会托管。
