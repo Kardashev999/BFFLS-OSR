@@ -386,4 +386,4 @@ BW统计力学仍在发展，未来可能扩展为：
 ---
 
 © 北京市丰台区外国语学校 · BFFLS Open Source Repository · BW统计力学  
-本分支内容由 OSR 管理委员会托管。姊妹篇：[BW 非经典力学](../BW-超高速状态非经典力学/README.md)（虚构设定）。
+本分支内容由 OSR 管理委员会托管。姊妹篇：[BW 非经典力学](https://github.com/Kardashev999/BFFLS-OSR/blob/BW-%E8%B6%85%E9%AB%98%E9%80%9F%E7%8A%B6%E6%80%81%E9%9D%9E%E7%BB%8F%E5%85%B8%E5%8A%9B%E5%AD%A6/README.md)（虚构设定）。
