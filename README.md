@@ -1,5 +1,8 @@
-![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-0.0.1-green) ![Last Commit](https://img.shields.io/github/last-commit/WYC999999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/WYC999999/BFFLS-OSR) ![Stars](https://img.shields.io/github/stars/WYC999999/BFFLS-OSR?style=social) ![Forks](https://img.shields.io/github/forks/WYC999999/BFFLS-OSR?style=social)
+![Field](https://img.shields.io/badge/BFFLS-blue) ![Version](https://img.shields.io/badge/version-1.0-green) ![Last Commit](https://img.shields.io/github/last-commit/Kardashev999/BFFLS-OSR) ![Repo Size](https://img.shields.io/github/repo-size/Kardashev999/BFFLS-OSR)
 # 红警怪谈（Red Alert Creepypasta）
+
+> **内容性质**：本文为虚构的校园怪谈（Creepypasta）创作，纯属娱乐，请勿当真。文中所涉游戏与场景设定均为虚构演绎。
+
 
 > 以下规则来自一位沉迷《红色警戒》到近乎失控的玩家所留下的记录。  
 > 他的名字已经不再重要，因此以下内容只称呼他为 **“那个人”**。  
@@ -39,3 +42,8 @@
 - 学校机房电脑  
 - U 盘  
 - 甚至包括 **希沃白板**
+
+---
+
+© 北京市丰台区外国语学校 · BFFLS Open Source Repository · 红警怪谈  
+本分支内容由 OSR 管理委员会托管。
